@@ -1,4 +1,4 @@
-# Links
+# GoLangLinks
 Programmatic links for the absurd Pragmatic Programer
 
 Building a Network Command Line Interface in Go Image Building a Network Command Line Interface in Go
